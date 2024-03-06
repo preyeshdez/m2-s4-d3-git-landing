@@ -37,6 +37,10 @@ form {
   border-radius: 20px;
   box-shadow: 0 6px #2E282A;
 }
+
+.btn:hover{
+  background-color: rgb(16, 16, 59);
+}
   
 .btn a {
     color: white;
